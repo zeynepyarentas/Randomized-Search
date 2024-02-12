@@ -3,9 +3,6 @@
 House Price Prediction Project
 This project aims to create a model using various machine learning algorithms to predict house prices.
 
-Data Acquisition
-The dataset used for house price prediction can be downloaded from here.
-
 Data Preprocessing
 The following steps were carried out during the data preprocessing stage:
 
